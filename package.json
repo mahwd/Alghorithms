@@ -1,0 +1,18 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "fibonacci": "ts-node fibonacci.ts",
+    "elevation": "ts-node elevation_map.ts",
+    "ip": "ts-node ip.ts",
+    "profit":"ts-node max_profit.ts"
+  },
+  "author": "Hasan Tagiyev",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
